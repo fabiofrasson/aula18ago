@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1660861881 source:/home/frasson/Documents/Projetos/c/aula18ago/main.c
+	<stdio.h>
+	<stdlib.h>
+
